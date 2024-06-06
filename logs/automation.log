@@ -1,0 +1,8 @@
+19:50:19.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - *******finished TC_001_AccountRegistrationTest*********
+19:50:26.138 [main] INFO  testCases.TC_002_LoginTest - **** staring TC_002_LoginTest *****
+19:50:26.140 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs...
+19:50:27.368 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account link
+19:50:28.051 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link in MyAccount
+19:50:28.054 [main] INFO  testCases.TC_002_LoginTest - Entered Valid email and password
+19:50:29.219 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+19:50:29.320 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest *****
